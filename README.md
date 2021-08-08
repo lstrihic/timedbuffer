@@ -1,5 +1,5 @@
 ## Timed buffer
-Simple implementation of timed buffer in go.
+Simple implementation of the timed buffer in go.
 
 See it in action:
 ```go
